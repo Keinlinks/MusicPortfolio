@@ -1,0 +1,7 @@
+@PortafolioBack_HostAddress = http://localhost:5239
+
+GET {{PortafolioBack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+GET {{PortafolioBack_HostAddress}}/Songs/
